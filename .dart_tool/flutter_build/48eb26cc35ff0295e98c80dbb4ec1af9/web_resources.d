@@ -1,0 +1,1 @@
+ build/web/favicon.png build/web/icons/Icon-192.png build/web/icons/Icon-512.png:  /Users/alby/Documents/red_bull_game/web/index.html /Users/alby/Documents/red_bull_game/web/favicon.png /Users/alby/Documents/red_bull_game/web/icons/Icon-192.png /Users/alby/Documents/red_bull_game/web/icons/Icon-512.png

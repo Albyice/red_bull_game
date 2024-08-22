@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "746804757510",
+    "project_id": "red-bull-game-hmebvj",
+    "storage_bucket": "red-bull-game-hmebvj.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:746804757510:android:a0569eb9a6bf9a490a6f87",
+        "android_client_info": {
+          "package_name": "com.mycompany.redbullgame"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-iDdauOvzdgzzKkoId1kEZxXfT23Q__E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

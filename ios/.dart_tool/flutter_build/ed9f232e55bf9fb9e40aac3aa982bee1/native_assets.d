@@ -1,0 +1,1 @@
+ /Users/alby/Documents/red_bull_game/ios/.dart_tool/flutter_build/ed9f232e55bf9fb9e40aac3aa982bee1/native_assets.yaml: 
